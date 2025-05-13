@@ -8,58 +8,35 @@ namespace NorthwindAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeesController : ControllerBase
+    public class SuppliersController : ControllerBase
     {
         private readonly MyDBContext db;
-        public EmployeesController(MyDBContext dbContext)
+        public SuppliersController(MyDBContext dbContext)
         {
             db = dbContext;
         }
-        // GET: api/<EmployeesController>
+
+        // GET: api/<SuppliersController>
         [HttpGet]
-        public IEnumerable<Employees> Get()
+        public IEnumerable<Suppliers> Get()
         {
-            return db.Employees.ToList();
+            return db.Suppliers;
         }
 
-        // GET api/<EmployeesController>/5
+        // GET api/<SuppliersController>/5
         [HttpGet("{id}")]
-        public Employees Get(int id)
+        public Suppliers Get(int id)
         {
-            return db.Employees.Find(id);
+            return db.Suppliers.Find(id);
         }
 
-        // POST api/<EmployeesController>
+        // POST api/<SuppliersController>
         [HttpPost]
-        public int Post(Employees obj)
+        public int Post(Suppliers obj)
         {
             try
             {
-                if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null) 
-                {
-                    return 0;
-                }
-                db.Employees.Add(obj);
-                db.SaveChanges();
-                return 1;
-            }
-            catch (Exception) 
-            {
-                return -1;
-            }
-        }
-
-        // PUT api/<EmployeesController>/5
-        [HttpPut]
-        public int Put(Employees obj)
-        {
-            try
-            {
-                if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null)
-                {
-                    return 0;
-                }
-                db.Entry(obj).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                db.Suppliers.Add(obj);
                 db.SaveChanges();
                 return 1;
             }
@@ -69,14 +46,30 @@ namespace NorthwindAPI.Controllers
             }
         }
 
-        // DELETE api/<EmployeesController>/5
+        // PUT api/<SuppliersController>/5
+        [HttpPut]
+        public int Put(Suppliers obj)
+        {
+            try
+            {
+                db.Entry(obj).State = EntityState.Modified;
+                db.SaveChanges();
+                return 1;
+            }
+            catch (Exception)
+            {
+                return -1;
+            }
+        }
+
+        // DELETE api/<SuppliersController>/5
         [HttpDelete("{id}")]
         public int Delete(int id)
         {
             try
             {
-                Employees emp = db.Employees.Find(id) ;
-                db.Employees.Remove(emp);
+                Suppliers sup = db.Suppliers.Find(id);
+                db.Suppliers.Remove(sup);
                 db.SaveChanges();
                 return 1;
             }

@@ -10,8 +10,8 @@ namespace NorthwindAPI.Models
         public string UserName { get; set; }
         public string Password { get; set; }
         public string Discription { get; set; }
+        [ForeignKey("Employees")]
         public int EmployeeID { get; set; }
-        [NotMapped]
-        public bool Remember { get; set; }
+        public virtual Employees? Employees { get; set; }
     }
 }

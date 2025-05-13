@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using NorthwindAPI.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -8,38 +7,35 @@ namespace NorthwindAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EmployeesController : ControllerBase
+    public class ShippersController : ControllerBase
     {
         private readonly MyDBContext db;
-        public EmployeesController(MyDBContext dbContext)
+        public ShippersController(MyDBContext dbContext)
         {
             db = dbContext;
         }
-        // GET: api/<EmployeesController>
+
+        // GET: api/<ShippersController>
         [HttpGet]
-        public IEnumerable<Employees> Get()
+        public IEnumerable<Shippers> Get()
         {
-            return db.Employees.ToList();
+            return db.Shippers;
         }
 
-        // GET api/<EmployeesController>/5
+        // GET api/<ShippersController>/5
         [HttpGet("{id}")]
-        public Employees Get(int id)
+        public Shippers Get(int id)
         {
-            return db.Employees.Find(id);
+            return db.Shippers.Find(id);
         }
 
-        // POST api/<EmployeesController>
+        // POST api/<ShippersController>
         [HttpPost]
-        public int Post(Employees obj)
+        public int Post(Shippers obj)
         {
             try
             {
-                if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null) 
-                {
-                    return 0;
-                }
-                db.Employees.Add(obj);
+                db.Shippers.Add(obj);
                 db.SaveChanges();
                 return 1;
             }
@@ -49,34 +45,30 @@ namespace NorthwindAPI.Controllers
             }
         }
 
-        // PUT api/<EmployeesController>/5
+        // PUT api/<ShippersController>/5
         [HttpPut]
-        public int Put(Employees obj)
+        public int Put(Shippers obj)
         {
             try
             {
-                if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null)
-                {
-                    return 0;
-                }
                 db.Entry(obj).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 db.SaveChanges();
                 return 1;
             }
-            catch (Exception)
+            catch (Exception) 
             {
                 return -1;
             }
         }
 
-        // DELETE api/<EmployeesController>/5
+        // DELETE api/<ShippersController>/5
         [HttpDelete("{id}")]
         public int Delete(int id)
         {
             try
             {
-                Employees emp = db.Employees.Find(id) ;
-                db.Employees.Remove(emp);
+                Shippers shipper = db.Shippers.Find(id);
+                db.Shippers.Remove(shipper);
                 db.SaveChanges();
                 return 1;
             }

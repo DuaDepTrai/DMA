@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using NorthwindAPI.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -19,14 +20,15 @@ namespace NorthwindAPI.Controllers
         [HttpGet]
         public IEnumerable<Territories> Get()
         {
-            return db.Territories;
+            
+            return db.Territories.Include(t => t.Region).ToList();
         }
 
         // GET api/<TerritoriesController>/5
         [HttpGet("{id}")]
         public Territories Get(string id)
         {
-            return db.Territories.Find(id);
+            return db.Territories.Include(t => t.Region).FirstOrDefault(t => t.TerritoryID == id);
         }
 
         // POST api/<TerritoriesController>

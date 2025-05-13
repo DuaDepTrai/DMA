@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using NorthwindAPI.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -18,7 +19,7 @@ namespace NorthwindAPI.Controllers
         [HttpGet]
         public IEnumerable<Users> Get()
         {
-            return db.Users;
+            return db.Users.Include(u => u.Employees).ToList();
         }
 
         // GET api/<UsersController>/5
@@ -26,6 +27,15 @@ namespace NorthwindAPI.Controllers
         public Users Get(int id)
         {
             return db.Users.Find(id);
+        }
+
+        [Route("Login")]
+        [HttpGet]
+        public Users Login(string userName, string password)
+        {
+            return db.Users.Include(e => e.Employees)
+                            .Where(u => u.UserName == userName && u.Password == password)
+                            .FirstOrDefault();
         }
 
         // POST api/<UsersController>

@@ -15,5 +15,25 @@ namespace NorthwindAPI.Models
         public DbSet<Territories> Territories { get; set; }
         public DbSet<Employees> Employees { get; set; }
         public DbSet<Users> Users { get; set; }
+        public DbSet<Suppliers> Suppliers { get; set; }
+        public DbSet<Shippers> Shippers { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Cấu hình mối quan hệ tự tham chiếu cho Employees (đã có)
+            //modelBuilder.Entity<Employees>()
+            //    .HasOne(e => e.ReportsToNavigation)
+            //    .WithMany()
+            //    .HasForeignKey(e => e.ReportsTo)
+            //    .IsRequired(false); // ReportsTo có thể null
+
+            // Cấu hình mối quan hệ giữa Users và Employees
+            //modelBuilder.Entity<Users>()
+            //    .HasOne(u => u.Employees)
+            //    .WithMany()
+            //    .HasForeignKey(u => u.EmployeeID)
+            //    .IsRequired(false); // EmployeeID có thể null
+        }
+
+
     }
 }
