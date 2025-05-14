@@ -163,3 +163,4 @@ E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\refint\NorthwindAP
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.pdb
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.genruntimeconfig.cache
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\ref\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.sourcelink.json

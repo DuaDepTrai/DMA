@@ -17,8 +17,16 @@ namespace NorthwindAPI.Models
         public DbSet<Users> Users { get; set; }
         public DbSet<Suppliers> Suppliers { get; set; }
         public DbSet<Shippers> Shippers { get; set; }
+        public DbSet<Products> Products { get; set; }
+        public DbSet<Orders> Orders { get; set; }
+        public DbSet<EmployeeTerritories> EmployeeTerritories { get; set; }
+        public DbSet<OrderDetails> OrderDetails { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<EmployeeTerritories>()
+                .HasKey(et => new { et.EmployeeID, et.TerritoryID });
+            modelBuilder.Entity<OrderDetails>()
+                .HasKey(et => new { et.OrderID, et.ProductID });
             // Cấu hình mối quan hệ tự tham chiếu cho Employees (đã có)
             //modelBuilder.Entity<Employees>()
             //    .HasOne(e => e.ReportsToNavigation)

@@ -42,7 +42,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception)
             {
-                return -1;
+                return 0;
             }
         }
 
@@ -58,7 +58,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception)
             {
-                return -1;
+                return 0;
             }
         }
 
@@ -75,7 +75,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception)
             {
-                return -1;
+                return 0;
             }
         }
     }

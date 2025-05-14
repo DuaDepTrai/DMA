@@ -37,7 +37,7 @@ namespace NorthwindAPI.Controllers
             {
                 if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null) 
                 {
-                    return 0;
+                    return -1;
                 }
                 db.Employees.Add(obj);
                 db.SaveChanges();
@@ -45,7 +45,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception) 
             {
-                return -1;
+                return 0;
             }
         }
 
@@ -57,7 +57,7 @@ namespace NorthwindAPI.Controllers
             {
                 if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null)
                 {
-                    return 0;
+                    return -1;
                 }
                 db.Entry(obj).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 db.SaveChanges();
@@ -65,7 +65,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception)
             {
-                return -1;
+                return 0;
             }
         }
 
@@ -82,7 +82,7 @@ namespace NorthwindAPI.Controllers
             }
             catch (Exception)
             {
-                return -1;
+                return 0;
             }
         }
     }

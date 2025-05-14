@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {}
+    "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {}
   },
   "projects": {
-    "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {
+    "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+        "projectUniqueName": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
         "projectName": "NorthwindAPI",
-        "projectPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+        "projectPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
         "packagesPath": "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\",
-        "outputPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
+        "outputPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
