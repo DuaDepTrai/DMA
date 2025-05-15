@@ -36,6 +36,7 @@ namespace NorthwindAPI.Controllers
         {
             try
             {
+                obj.SupplierID = db.Suppliers.Max(r => r.SupplierID) + 1;
                 db.Suppliers.Add(obj);
                 db.SaveChanges();
                 return 1;

@@ -48,6 +48,7 @@ namespace NorthwindAPI.Controllers
                 {
                     return -1;
                 }
+                obj.UserID = db.Users.Max(r => r.UserID) + 1;
                 db.Users.Add(obj);
                 db.SaveChanges();
                 return 1;

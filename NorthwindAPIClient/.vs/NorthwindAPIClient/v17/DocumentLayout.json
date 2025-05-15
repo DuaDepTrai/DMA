@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|e:\\aptech - it\\dma\\northwindapiclient\\northwindapiclient\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|solutionrelative:northwindapiclient\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|e:\\aptech - it\\dma\\northwindapiclient\\northwindapiclient\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|solutionrelative:northwindapiclient\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|e:\\aptech - it\\dma\\northwindapiclient\\northwindapiclient\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C9817-0EB1-4B39-A3C8-2EC8A5FDB64F}|NorthwindAPIClient\\NorthwindAPIClient.csproj|solutionrelative:northwindapiclient\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NorthwindAPIClient\\Controllers\\RegionController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "NorthwindAPIClient\\Controllers\\RegionController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:44:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "NorthwindAPIClient\\Models\\Region.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Models\\Region.cs",
+              "RelativeToolTip": "NorthwindAPIClient\\Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:44:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestClient.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Models\\RestClient.cs",
+              "RelativeDocumentMoniker": "NorthwindAPIClient\\Models\\RestClient.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\Models\\RestClient.cs",
+              "RelativeToolTip": "NorthwindAPIClient\\Models\\RestClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:35:47.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

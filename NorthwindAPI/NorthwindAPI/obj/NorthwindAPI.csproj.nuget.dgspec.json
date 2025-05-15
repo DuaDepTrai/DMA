@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {}
+    "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {}
   },
   "projects": {
-    "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {
+    "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+        "projectUniqueName": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
         "projectName": "NorthwindAPI",
-        "projectPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+        "projectPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
         "packagesPath": "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\",
-        "outputPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
+        "outputPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,6 +61,18 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
