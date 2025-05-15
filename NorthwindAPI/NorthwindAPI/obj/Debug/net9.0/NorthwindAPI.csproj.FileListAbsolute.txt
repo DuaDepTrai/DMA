@@ -167,3 +167,10 @@ G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\Northwi
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll

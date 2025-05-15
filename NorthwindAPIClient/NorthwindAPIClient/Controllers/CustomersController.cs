@@ -1,0 +1,113 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using NorthwindAPIClient.Models;
+
+namespace NorthwindAPIClient.Controllers
+{
+    public class CustomersController : Controller
+    {
+        // GET: CustomersController
+        public ActionResult Index()
+        {
+            RestClient restClient = new RestClient();
+            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.endPoint = "api/Customers";
+            string result = restClient.RestRequestAll();
+
+            List<Customers> CustomersList = JsonConvert.DeserializeObject<List<Customers>>(result);
+
+            return View(CustomersList);
+        }
+
+        // GET: CustomersController/Details/5
+        public ActionResult Details(int id)
+        {
+            RestClient restClient = new RestClient();
+            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.endPoint = "api/Customers/" + id;
+            string result = restClient.RestRequestAll();
+
+            Customers cus = JsonConvert.DeserializeObject<Customers>(result);
+
+            return View(cus);
+        }
+
+        // GET: CustomersController/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: CustomersController/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(IFormCollection collection)
+        {
+            try
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
+
+        // GET: CustomersController/Edit/5
+        public ActionResult Edit(int id)
+        {
+            RestClient restClient = new RestClient();
+            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.endPoint = "api/Customers/" + id;
+            string result = restClient.RestRequestAll();
+
+            Customers cus = JsonConvert.DeserializeObject<Customers>(result);
+
+            return View(cus);
+        }
+
+        // POST: CustomersController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(int id, IFormCollection collection)
+        {
+            try
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
+
+        // GET: CustomersController/Delete/5
+        public ActionResult Delete(int id)
+        {
+            RestClient restClient = new RestClient();
+            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.endPoint = "api/Customers/" + id;
+            string result = restClient.RestRequestAll();
+
+            Customers cus = JsonConvert.DeserializeObject<Customers>(result);
+
+            return View(cus);
+        }
+
+        // POST: CustomersController/Delete/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Delete(int id, IFormCollection collection)
+        {
+            try
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
+    }
+}
