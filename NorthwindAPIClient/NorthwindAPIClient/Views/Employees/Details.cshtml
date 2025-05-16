@@ -119,6 +119,12 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.PhotoPath)
         </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Url.Action("ShowImage", "Employees", new {id = Model.EmployeeID})" alt="EmployeePhoto" width="200" />
+        </dd>
     </dl>
 </div>
 <div>

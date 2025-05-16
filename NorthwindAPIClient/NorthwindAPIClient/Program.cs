@@ -1,7 +1,11 @@
+using NorthwindAPIClient.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.Configure<MySettings>(builder.Configuration.GetSection("MySettings"));
 
 var app = builder.Build();
 

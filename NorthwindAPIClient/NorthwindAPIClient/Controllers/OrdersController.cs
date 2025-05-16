@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using NorthwindAPIClient.Models;
 
@@ -7,11 +8,16 @@ namespace NorthwindAPIClient.Controllers
 {
     public class OrdersController : Controller
     {
+        private readonly MySettings mst = new MySettings();
+        public OrdersController(IOptions<MySettings> options)
+        {
+            mst = options.Value;
+        }
         // GET: OrdersController
         public ActionResult Index()
         {
             RestClient restClient = new RestClient();
-            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.BaseUrl = mst.BaseUrl;
             restClient.endPoint = "api/Orders";
             string result = restClient.RestRequestAll();
 
@@ -24,7 +30,7 @@ namespace NorthwindAPIClient.Controllers
         public ActionResult Details(int id)
         {
             RestClient restClient = new RestClient();
-            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.BaseUrl = mst.BaseUrl;
             restClient.endPoint = "api/Orders/" + id;
             string result = restClient.RestRequestAll();
 
@@ -42,11 +48,22 @@ namespace NorthwindAPIClient.Controllers
         // POST: OrdersController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Orders obj)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                RestClient restClient = new RestClient();
+                restClient.BaseUrl = mst.BaseUrl;
+                restClient.endPoint = "api/Orders";
+                string result = restClient.RestPostObj(obj);
+                if (result == "Success")
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View();
+                }
             }
             catch
             {
@@ -58,7 +75,7 @@ namespace NorthwindAPIClient.Controllers
         public ActionResult Edit(int id)
         {
             RestClient restClient = new RestClient();
-            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.BaseUrl = mst.BaseUrl;
             restClient.endPoint = "api/Orders/" + id;
             string result = restClient.RestRequestAll();
 
@@ -86,7 +103,7 @@ namespace NorthwindAPIClient.Controllers
         public ActionResult Delete(int id)
         {
             RestClient restClient = new RestClient();
-            restClient.BaseUrl = "https://localhost:44374/";
+            restClient.BaseUrl = mst.BaseUrl;
             restClient.endPoint = "api/Orders/" + id;
             string result = restClient.RestRequestAll();
 

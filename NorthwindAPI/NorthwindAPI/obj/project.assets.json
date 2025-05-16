@@ -3089,11 +3089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+      "projectUniqueName": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
       "projectName": "NorthwindAPI",
-      "projectPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+      "projectPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
       "packagesPath": "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\",
-      "outputPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
+      "outputPath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

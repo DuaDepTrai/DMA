@@ -1,4 +1,7 @@
 ﻿using System.Net.Http;
+using System.Text;
+using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
 
 namespace NorthwindAPIClient.Models
 {
@@ -24,6 +27,30 @@ namespace NorthwindAPIClient.Models
             }
 
             return strResponseValue;
+        }
+
+        public string RestPostObj (Object obj)
+        {
+            Uri u = new Uri(BaseUrl + endPoint);
+            string postBody = JsonConvert.SerializeObject(obj);
+
+            HttpContent c = new StringContent(postBody, Encoding.UTF8, "application/json");
+
+            var response = string.Empty;
+
+            using (var client = new HttpClient())
+            {
+                var result = client.PostAsync(u, c).Result;
+                if (result.IsSuccessStatusCode)
+                {
+                    response = "Success";
+                }
+                else
+                {
+                    response = "Error";
+                }
+            }
+            return response;
         }
     }
 }

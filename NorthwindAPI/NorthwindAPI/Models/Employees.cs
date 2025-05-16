@@ -21,6 +21,7 @@ namespace NorthwindAPI.Models
         public string Country { get; set; }
         public string HomePhone { get; set; }
         public string Extension { get; set; }
+        public byte[] Photo { get; set; }
         public string Notes { get; set; }
         [ForeignKey("Employees")]
         public int? ReportsTo { get; set; }

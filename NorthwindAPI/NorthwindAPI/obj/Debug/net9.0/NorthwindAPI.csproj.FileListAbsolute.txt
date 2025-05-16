@@ -174,3 +174,7 @@ G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtons
 G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
 G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll

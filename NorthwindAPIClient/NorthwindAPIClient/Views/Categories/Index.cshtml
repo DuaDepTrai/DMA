@@ -22,6 +22,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -38,9 +41,13 @@
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
             <td>
+                <img src="@Url.Action("ShowImage", "Categories", new {id = item.CategoryID})" alt="CategoryPicture" width="100"/>
+                @* @Html.DisplayFor(modelItem => item.Picture) *@
+            </td>
+            <td>
                 @Html.ActionLink("Edit", "Edit", new { id=item.CategoryID }) |
-                @Html.ActionLink("Details", "Details", new { id=item.CategoryID }) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.CategoryID })
+                    @Html.ActionLink("Details", "Details", new { id = item.CategoryID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CategoryID })
             </td>
         </tr>
 }
