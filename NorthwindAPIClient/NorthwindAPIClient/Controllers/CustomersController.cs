@@ -27,7 +27,7 @@ namespace NorthwindAPIClient.Controllers
         }
 
         // GET: CustomersController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(string id)
         {
             RestClient restClient = new RestClient();
             restClient.BaseUrl = mst.BaseUrl;
@@ -87,15 +87,26 @@ namespace NorthwindAPIClient.Controllers
         // POST: CustomersController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(Customers obj)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                RestClient restClient = new RestClient();
+                restClient.BaseUrl = mst.BaseUrl;
+                restClient.endPoint = "api/Customers";
+                string result = restClient.RestPutObj(obj);
+                if (result == "Success")
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View(obj);
+                }
             }
             catch
             {
-                return View();
+                return View(obj);
             }
         }
 
@@ -115,15 +126,26 @@ namespace NorthwindAPIClient.Controllers
         // POST: CustomersController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(string id, Customers obj)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                RestClient restClient = new RestClient();
+                restClient.BaseUrl = mst.BaseUrl;
+                restClient.endPoint = "api/Customers/" + id;
+                string result = restClient.RestDeleteObj(obj);
+                if (result == "Success")
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View(obj);
+                }
             }
             catch
             {
-                return View();
+                return View(obj);
             }
         }
     }

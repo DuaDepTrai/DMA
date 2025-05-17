@@ -5505,11 +5505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\NorthwindAPIClient.csproj",
+      "projectUniqueName": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\NorthwindAPIClient.csproj",
       "projectName": "NorthwindAPIClient",
-      "projectPath": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\NorthwindAPIClient.csproj",
+      "projectPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\NorthwindAPIClient.csproj",
       "packagesPath": "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\",
-      "outputPath": "E:\\APTECH - IT\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\obj\\",
+      "outputPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPIClient\\NorthwindAPIClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -17,7 +17,7 @@ namespace NorthwindAPIClient.Models
         public string? Country { get; set; }
         [Required(ErrorMessage = "Phone is required")]
         [Phone]
-        public string? Phone { get; set; }
+        public string Phone { get; set; }
         public string? Fax { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFRWmUci5Ns=",
+  "dgSpecHash": "7ireuGN1acQ=",
   "success": true,
-  "projectFilePath": "E:\\APTECH - IT\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
+  "projectFilePath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\NorthwindAPI\\NorthwindAPI\\NorthwindAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

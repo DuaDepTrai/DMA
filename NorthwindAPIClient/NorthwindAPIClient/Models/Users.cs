@@ -15,6 +15,6 @@ namespace NorthwindAPIClient.Models
         [Required(ErrorMessage = "Employee is required!")]
         public int? EmployeeID { get; set; }
         public bool Remember { get; set; }
-        public string? FullName { get; set; }
+        //public string? FullName { get; set; }
     }
 }

@@ -13,11 +13,12 @@
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="EmployeeID" class="control-label"></label>
-                <input asp-for="EmployeeID" class="form-control" />
-                <span asp-validation-for="EmployeeID" class="text-danger"></span>
-            </div>
+            @Html.HiddenFor(model => model.EmployeeID)
+            @* <div class="form-group"> *@
+            @*     <label asp-for="EmployeeID" class="control-label"></label> *@
+            @*     <input asp-for="EmployeeID" class="form-control" /> *@
+            @*     <span asp-validation-for="EmployeeID" class="text-danger"></span> *@
+            @* </div> *@
             <div class="form-group">
                 <label asp-for="LastName" class="control-label"></label>
                 <input asp-for="LastName" class="form-control" />
@@ -28,11 +29,11 @@
                 <input asp-for="FirstName" class="form-control" />
                 <span asp-validation-for="FirstName" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="FullName" class="control-label"></label>
-                <input asp-for="FullName" class="form-control" />
-                <span asp-validation-for="FullName" class="text-danger"></span>
-            </div>
+            @* <div class="form-group"> *@
+            @*     <label asp-for="FullName" class="control-label"></label> *@
+            @*     <input asp-for="FullName" class="form-control" /> *@
+            @*     <span asp-validation-for="FullName" class="text-danger"></span> *@
+            @* </div> *@
             <div class="form-group">
                 <label asp-for="Title" class="control-label"></label>
                 <input asp-for="Title" class="form-control" />
@@ -87,6 +88,11 @@
                 <label asp-for="Extension" class="control-label"></label>
                 <input asp-for="Extension" class="form-control" />
                 <span asp-validation-for="Extension" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photo" class="control-label"></label>
+                <input asp-for="Photo" class="form-control" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Notes" class="control-label"></label>

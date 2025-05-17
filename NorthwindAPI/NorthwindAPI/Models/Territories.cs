@@ -7,7 +7,7 @@ namespace NorthwindAPI.Models
         [Key]
         public string TerritoryID { get; set; }
         public string TerritoryDescription { get; set; }
-        public int RegionID { get; set; }
+        public int? RegionID { get; set; }
         public virtual Region? Region { get; set; }
     }
 }

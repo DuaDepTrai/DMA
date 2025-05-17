@@ -35,10 +35,16 @@ namespace NorthwindAPI.Controllers
         {
             try
             {
+                if (obj == null)
+                {
+                    return -2;
+                }
                 if (obj.ReportsTo != null && db.Employees.Find(obj.ReportsTo) == null) 
                 {
                     return -1;
                 }
+                obj.EmployeeID = 0;
+
                 db.Employees.Add(obj);
                 db.SaveChanges();
                 return 1;

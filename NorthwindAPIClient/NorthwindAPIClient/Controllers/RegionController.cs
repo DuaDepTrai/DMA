@@ -88,15 +88,26 @@ namespace NorthwindAPIClient.Controllers
         // POST: RegionController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(Region obj)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                RestClient restClient = new RestClient();
+                restClient.BaseUrl = mst.BaseUrl;
+                restClient.endPoint = "api/Region";
+                string result = restClient.RestPutObj(obj);
+                if (result == "Success")
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View(obj);
+                }
             }
             catch
             {
-                return View();
+                return View(obj);
             }
         }
 
