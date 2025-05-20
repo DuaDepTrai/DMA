@@ -1,0 +1,99 @@
+﻿@model NorthwindAPIClient.Models.Categories
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Categories</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.HiddenFor(model => model.CategoryID)
+            @* <div class="form-group"> *@
+            @*     <label asp-for="CategoryID" class="control-label"></label> *@
+            @*     <input asp-for="CategoryID" class="form-control" /> *@
+            @*     <span asp-validation-for="CategoryID" class="text-danger"></span> *@
+            @* </div> *@
+            <div class="form-group">
+                <label asp-for="CategoryName" class="control-label"></label>
+                <input asp-for="CategoryName" class="form-control" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Current Picture (BMP, PNG, JPG, JPEG, GIF)</label>
+                @if (Model.Picture != null)
+                {
+                    <img src="@Url.Action("ShowImage", "Categories", new { id = Model.CategoryID })" style="max-width: 200px; display: block;" alt="Current Category Image" />
+                }
+                else
+                {
+                    <p>No image available</p>
+                }
+            </div>
+            <div class="form-group">
+                <label for="PictureFile" class="control-label">Upload New Picture (BMP, PNG, JPG, JPEG, GIF)</label>
+                <input type="file" id="PictureFile" name="PictureFile" accept="image/bmp,image/png,image/jpeg,image/gif" class="form-control" />
+                <input type="hidden" id="PictureBase64" name="PictureBase64" />
+                <img id="PicturePreview" style="max-width: 200px; display: none;" alt="New Picture Preview" />
+                <small id="fileHelp" class="form-text text-muted">Chọn tệp ảnh: BMP, PNG, JPG, JPEG, GIF</small>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        // Xử lý preview và chuyển file thành Base64
+        document.getElementById('PictureFile').addEventListener('change', function (e) {
+            const file = e.target.files[0];
+            const preview = document.getElementById('PicturePreview');
+            const base64Input = document.getElementById('PictureBase64');
+
+            if (file) {
+                // Kiểm tra định dạng file
+                const validTypes = ['image/bmp', 'image/png', 'image/jpeg', 'image/gif'];
+                if (!validTypes.includes(file.type)) {
+                    alert('Định dạng ảnh không được hỗ trợ. Chỉ hỗ trợ BMP, PNG, JPG, JPEG, GIF.');
+                    e.target.value = ''; // Xóa file đã chọn
+                    preview.style.display = 'none';
+                    base64Input.value = '';
+                    return;
+                }
+
+                // Hiển thị preview
+                const reader = new FileReader();
+                reader.onload = function (event) {
+                    preview.src = event.target.result;
+                    preview.style.display = 'block';
+                    // Lưu Base64 (bỏ tiền tố data:image)
+                    base64Input.value = event.target.result.split(',')[1];
+                };
+                reader.readAsDataURL(file);
+            } else {
+                preview.style.display = 'none';
+                base64Input.value = '';
+            }
+        });
+    </script>
+}

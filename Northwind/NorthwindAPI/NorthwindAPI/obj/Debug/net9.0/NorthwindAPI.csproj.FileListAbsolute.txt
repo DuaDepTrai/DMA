@@ -1,0 +1,270 @@
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.Development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.staticwebassets.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.exe
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.deps.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.runtimeconfig.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.AssemblyReference.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfoInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.CoreCompileInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\scopedcss\bundle\NorthwindAPI.styles.css
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.pack.json
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\Northwin.4099EF35.Up2Date
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\refint\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.genruntimeconfig.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\ref\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Core.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Identity.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.ClientModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Memory.Data.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.Development.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.staticwebassets.endpoints.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.exe
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.deps.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.runtimeconfig.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.pdb
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Core.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Identity.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.ClientModel.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Memory.Data.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.AssemblyReference.cache
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfoInputs.cache
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfo.cs
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.CoreCompileInputs.cache
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.sourcelink.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\scopedcss\bundle\NorthwindAPI.styles.css
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.development.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.NorthwindAPI.props
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NorthwindAPI.props
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NorthwindAPI.props
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.pack.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\Northwin.4099EF35.Up2Date
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\refint\NorthwindAPI.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.pdb
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.genruntimeconfig.cache
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\ref\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.sourcelink.json
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\APTECH - IT\DMA\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.Development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\appsettings.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.staticwebassets.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.exe
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.deps.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.runtimeconfig.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\NorthwindAPI.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Core.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Azure.Identity.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.ClientModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Memory.Data.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.AssemblyReference.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfoInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.AssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.csproj.CoreCompileInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.sourcelink.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\scopedcss\bundle\NorthwindAPI.styles.css
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.NorthwindAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NorthwindAPI.props
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.pack.json
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\Northwin.4099EF35.Up2Date
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\refint\NorthwindAPI.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\NorthwindAPI.genruntimeconfig.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\Northwind\NorthwindAPI\NorthwindAPI\obj\Debug\net9.0\ref\NorthwindAPI.dll

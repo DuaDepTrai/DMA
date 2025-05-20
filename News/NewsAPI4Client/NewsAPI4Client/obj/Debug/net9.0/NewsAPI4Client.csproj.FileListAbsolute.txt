@@ -1,0 +1,572 @@
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\appsettings.Development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\appsettings.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.staticwebassets.runtime.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.staticwebassets.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.exe
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.deps.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.runtimeconfig.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Humanizer.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Build.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Common.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Configuration.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Frameworks.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.LibraryModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Packaging.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.ProjectModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Protocol.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Versioning.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.CodeDom.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\af\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ar\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\az\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\bg\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\da\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\el\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fa\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\he\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hr\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hu\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hy\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\id\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\is\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ku\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\lv\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\mt\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nb\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nl\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ro\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sk\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sl\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sr\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sv\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uk\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\vi\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.csproj.AssemblyReference.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.AssemblyInfoInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.AssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.csproj.CoreCompileInputs.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.MvcApplicationPartsAssemblyInfo.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.RazorAssemblyInfo.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.RazorAssemblyInfo.cs
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.sourcelink.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\bundle\NewsAPI4Client.styles.css
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\projectbundle\NewsAPI4Client.bundle.scp.css
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\k58l3vs2d8-b9sayid5wm.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\40d9h82dyj-61n19gt1b8.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\t2rpc4gnz3-xtxxf3hu2r.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\tp8vox1961-bqjiyaj88i.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ttruijycxc-c2jlpeoesf.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\fbq1v52cky-erw9l3u2r3.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\v3hx4u8q89-aexeepp0ev.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\gneikfgymv-d7shbmvgxk.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\e0253mdzx3-ausgxo2sd3.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\x56yeutp8n-k8d9w2qqmf.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmahkzxwi4-cosvhxvwiu.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ud48u1cs7y-ub07r2b239.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\st4knkcolq-fvhpjtyr6v.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\bcrieobw73-b7pk76d08c.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\a4qtr1t76n-fsbi9cje9m.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\xg410akomq-rzd6atqjts.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\dvochkirlm-ee0r1s7dh0.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\elwt3a4jm1-dxx9fxp4il.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\8380yo8ksn-jd9uben2k1.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\9qgoeg1flh-khv3u5hwcm.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\bcq4e6jzd5-r4e9w2rdcm.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yfnm8trxo6-lcd1t2u6c8.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\vcx2vtyj46-c2oey78nd0.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\r8afafcr9k-tdbxkamptv.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\j7ny70qfmk-j5mq2jizvt.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rjqusrvl3p-06098lyss8.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ub8a4m3ehe-nvvlpmu67g.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\wiz6yhl6r9-s35ty4nyc5.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yzr0f4ao1o-pj5nd1wqec.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\pm33ww8jch-46ein0sx1k.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmoykntcg8-v0zj4ognzu.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\2gg87dwtg8-37tfw0ft22.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\45ifv6g60s-hrwsygsryq.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\hk1f1kpl0u-pk9g2wxc8p.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\hclls9choo-ft3s53vfgj.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\nb879toxzt-6cfz1n2cew.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\1jjfglmux2-6pdc2jztkx.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\6acjvyqqw2-493y06b0oq.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\indmxvj3ua-iovd86k7lj.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\es0fi5jpyf-vr1egmr9el.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\fb3u5cff40-kbrnm935zg.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\wfe9wngzbd-jj8uyg4cgr.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\whogar2vd8-y7v9cxd14o.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\8whk9yfh8h-notf2xhcfb.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\cvp571zzjx-h1s4sie4z3.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmasqt3js4-63fj8s7r0e.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\z4khxztp47-0j3bgjxly4.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\2lovn3ydx6-47otxtyo56.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ae0mzy8peb-4v8eqarkd7.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\03mihsypn8-356vix0kms.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\nl4m3ptbgf-83jwlth58m.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ujm7kds2ap-mrlpezrjn3.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\irpi91n79z-lzl9nlhx6b.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\j8kmz6304s-ag7o75518u.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\e893vzh2ai-x0q3zqp4vz.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\icbrh1aui5-0i3buxo5is.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\avhf9ixcdm-o1o13a6vjx.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\n6jozd2u8y-ttgo8qnofa.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yf8kyo8y45-2z0ns9nrw6.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\6hltz4obhp-muycvpuwrr.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ejb9ve7nrl-87fc7y1x7t.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\v79599ca1z-mlv21k5csn.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\k0uw38uv4a-ujqoh5kt0s.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\oo0dcw1533-ujqoh5kt0s.gz
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.build.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.development.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.NewsAPI4Client.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.NewsAPI4Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.build.NewsAPI4Client.props
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NewsAPI4Client.props
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NewsAPI4Client.props
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.pack.json
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4.EB33F52F.Up2Date
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\refint\NewsAPI4Client.dll
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.pdb
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.genruntimeconfig.cache
+G:\IT-APTECH\Bai-tap-Code\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\ref\NewsAPI4Client.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\appsettings.Development.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\appsettings.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.staticwebassets.runtime.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.staticwebassets.endpoints.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.exe
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.deps.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.runtimeconfig.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NewsAPI4Client.pdb
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Humanizer.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Build.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Common.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.CodeDom.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.csproj.AssemblyReference.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.AssemblyInfoInputs.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.AssemblyInfo.cs
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.csproj.CoreCompileInputs.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.MvcApplicationPartsAssemblyInfo.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.RazorAssemblyInfo.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.RazorAssemblyInfo.cs
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.sourcelink.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\bundle\NewsAPI4Client.styles.css
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\scopedcss\projectbundle\NewsAPI4Client.bundle.scp.css
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\k58l3vs2d8-b9sayid5wm.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\40d9h82dyj-61n19gt1b8.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\t2rpc4gnz3-xtxxf3hu2r.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\tp8vox1961-t1cqhe9u97.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ttruijycxc-c2jlpeoesf.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\fbq1v52cky-sejl45xvog.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\v3hx4u8q89-aexeepp0ev.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\gneikfgymv-xvp3kq03qx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\e0253mdzx3-ausgxo2sd3.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\x56yeutp8n-22vffe00uq.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmahkzxwi4-cosvhxvwiu.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ud48u1cs7y-qesaa3a1fm.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\st4knkcolq-fvhpjtyr6v.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\bcrieobw73-tmc1g35s3z.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\a4qtr1t76n-fsbi9cje9m.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\xg410akomq-rxsg74s51o.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\dvochkirlm-ee0r1s7dh0.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\elwt3a4jm1-q9ht133ko3.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\8380yo8ksn-jd9uben2k1.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\9qgoeg1flh-gye83jo8yx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\bcq4e6jzd5-r4e9w2rdcm.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yfnm8trxo6-wl58j5mj3v.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\vcx2vtyj46-c2oey78nd0.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\r8afafcr9k-d4r6k3f320.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\j7ny70qfmk-j5mq2jizvt.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rjqusrvl3p-keugtjm085.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ub8a4m3ehe-nvvlpmu67g.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\wiz6yhl6r9-zub09dkrxp.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yzr0f4ao1o-pj5nd1wqec.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\pm33ww8jch-43atpzeawx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmoykntcg8-v0zj4ognzu.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\2gg87dwtg8-ynyaa8k90p.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\45ifv6g60s-hrwsygsryq.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\hk1f1kpl0u-c63t5i9ira.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\hclls9choo-ft3s53vfgj.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\nb879toxzt-4094rpi4f9.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\1jjfglmux2-6pdc2jztkx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\6acjvyqqw2-hd3gran6i8.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\indmxvj3ua-iovd86k7lj.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\es0fi5jpyf-ltid2c489k.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\fb3u5cff40-kbrnm935zg.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\wfe9wngzbd-8vyfqsqgz1.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\whogar2vd8-y7v9cxd14o.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\8whk9yfh8h-u9q1upor1n.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\cvp571zzjx-h1s4sie4z3.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\rmasqt3js4-4d85u1mtcx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\z4khxztp47-0j3bgjxly4.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\2lovn3ydx6-03hjc8e09r.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ae0mzy8peb-48y08845bh.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\03mihsypn8-356vix0kms.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\nl4m3ptbgf-83jwlth58m.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ujm7kds2ap-mrlpezrjn3.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\irpi91n79z-worgj0nhwm.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\j8kmz6304s-gk0pw8i4co.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\e893vzh2ai-x0q3zqp4vz.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\icbrh1aui5-d6nrnj6jjx.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\avhf9ixcdm-m9qm4tazc0.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\n6jozd2u8y-ttgo8qnofa.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\yf8kyo8y45-jjsuc0puko.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\6hltz4obhp-9vr69e8ynj.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\ejb9ve7nrl-87fc7y1x7t.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\v79599ca1z-mlv21k5csn.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\k0uw38uv4a-ujqoh5kt0s.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\compressed\oo0dcw1533-ujqoh5kt0s.gz
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.build.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.development.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.NewsAPI4Client.Microsoft.AspNetCore.StaticWebAssets.props
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.NewsAPI4Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.build.NewsAPI4Client.props
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NewsAPI4Client.props
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NewsAPI4Client.props
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.pack.json
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4.EB33F52F.Up2Date
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\refint\NewsAPI4Client.dll
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.pdb
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\NewsAPI4Client.genruntimeconfig.cache
+E:\APTECH - IT\DMA\News\NewsAPI4Client\NewsAPI4Client\obj\Debug\net9.0\ref\NewsAPI4Client.dll
