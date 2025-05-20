@@ -1,0 +1,67 @@
+﻿@model NorthwindAPIClient.Models.Categories
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Categories</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @* <div class="form-group"> *@
+            @*     <label asp-for="CategoryID" class="control-label"></label> *@
+            @*     <input asp-for="CategoryID" class="form-control" /> *@
+            @*     <span asp-validation-for="CategoryID" class="text-danger"></span> *@
+            @* </div> *@
+            <div class="form-group">
+                <label asp-for="CategoryName" class="control-label"></label>
+                <input asp-for="CategoryName" class="form-control" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="PictureFile" class="control-label">Picture (BMP, PNG, JPG, JPEG, GIF)</label>                <input type="file" id="PictureFile" name="PictureFile" accept="image/*" class="form-control" />
+                <input type="hidden" id="PictureBase64" name="PictureBase64" />
+                <img id="PicturePreview" style="max-width: 200px; display: none;" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        document.getElementById('PictureFile').addEventListener('change', function (event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    // Hiển thị ảnh
+                    const preview = document.getElementById('PicturePreview');
+                    preview.src = e.target.result;
+                    preview.style.display = 'block';
+                    // Lưu Base64 (bỏ prefix "data:image/...;base64,")
+                    const base64 = e.target.result.split(',')[1];
+                    document.getElementById('PictureBase64').value = base64;
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+    </script>
+}
