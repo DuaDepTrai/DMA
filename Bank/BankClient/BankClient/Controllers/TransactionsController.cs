@@ -44,7 +44,6 @@ namespace BankClient.Controllers
         // GET: TransactionsController/Create
         public ActionResult Create()
         {
-            // Lấy danh sách Users cho RequestID dropdown
             RestClient restClient = new RestClient();
             restClient.BaseUrl = mst.BaseUrl;
             restClient.endPoint = "api/Users";
@@ -52,7 +51,6 @@ namespace BankClient.Controllers
             var users = JsonConvert.DeserializeObject<List<Users>>(usersResult);
             ViewBag.Users = users;
 
-            // Lấy danh sách Accounts cho ReceiverID dropdown
             restClient.endPoint = "api/Accounts";
             string accountsResult = restClient.RestRequestAll();
             var accounts = JsonConvert.DeserializeObject<List<Accounts>>(accountsResult);
@@ -64,25 +62,44 @@ namespace BankClient.Controllers
         // POST: TransactionsController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Transactions obj)
+        public ActionResult Create(Transactions obj, int? UserID)
         {
             try
             {
                 // Không cần gửi TransferTime, server sẽ tự set
                 obj.TransferTime = null;
 
-                RestClient restClient = new RestClient();
-                restClient.BaseUrl = mst.BaseUrl;
-                restClient.endPoint = "api/Transactions";
-                string result = restClient.RestPostObj(obj);
+                // Kiểm tra UserID và RequestID
+                if (!UserID.HasValue || obj.RequestID == 0)
+                {
+                    ModelState.AddModelError("", "Please select a valid user and account.");
+                    // Lấy lại dữ liệu cho ViewBag
+                    RestClient restClient = new RestClient();
+                    restClient.BaseUrl = mst.BaseUrl;
+                    restClient.endPoint = "api/Users";
+                    string usersResult = restClient.RestRequestAll();
+                    ViewBag.Users = JsonConvert.DeserializeObject<List<Users>>(usersResult);
+
+                    restClient.endPoint = "api/Accounts";
+                    string accountsResult = restClient.RestRequestAll();
+                    ViewBag.Accounts = JsonConvert.DeserializeObject<List<Accounts>>(accountsResult);
+                    return View(obj);
+                }
+
+                RestClient restClientPost = new RestClient();
+                restClientPost.BaseUrl = mst.BaseUrl;
+                restClientPost.endPoint = "api/Transactions";
+                string result = restClientPost.RestPostObj(obj);
 
                 if (result == "Success")
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction("Index", "Home");
                 }
                 else
                 {
                     // Lấy lại dữ liệu cho ViewBag
+                    RestClient restClient = new RestClient();
+                    restClient.BaseUrl = mst.BaseUrl;
                     restClient.endPoint = "api/Users";
                     string usersResult = restClient.RestRequestAll();
                     ViewBag.Users = JsonConvert.DeserializeObject<List<Users>>(usersResult);

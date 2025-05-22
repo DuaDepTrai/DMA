@@ -1,108 +1,108 @@
-﻿@model BankClient.Models.Transactions
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@model BankClient.Models.Transactions
 @{
     ViewData["Title"] = "Create Transaction";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h2>Create Transaction</h2>
 
-<div class="row">
-    <div class="col-md-6">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <table style="vertical-align: top">
-                <tr style ="vertical-align: top">
-                    <td style="width: 300px">
-                        <!-- RequestID: Dropdown Users -->
-                        <div class="form-group">
-                            <label class="control-label">Sender (User)</label>
-                            <select asp-for="RequestID" class="form-control" id="requestUserId" name="RequestID">
-                                <option value="">Select User</option>
-                                @foreach (var user in ViewBag.Users)
-                                {
-                                    <option value="@user.UserID" data-address="@user.Address">@user.FullName</option>
-                                }
-                            </select>
-                            <span asp-validation-for="RequestID" class="text-danger"></span>
-                        </div>
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card shadow-sm p-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <table class="table table-borderless align-middle">
+                    <tr>
+                        <td style="width: 50%; vertical-align: top;">
+                            <!-- Sender (User) -->
+                            <div class="form-group mb-3">
+                                <label class="form-label fw-bold">Sender (User)</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="senderFullName" value="@HttpContextAccessor.HttpContext.Session.GetString("FullName")" readonly />
+                                <input type="hidden" id="requestUserId" name="UserID" value="@HttpContextAccessor.HttpContext.Session.GetInt32("UserID")" />
+                                <span class="text-danger d-block mt-1" id="requestUserIdError"></span>
+                            </div>
 
-                        <!-- Sender Address -->
-                        <div class="form-group" id="senderAddressContainer" style="display:none;">
-                            <label class="control-label">Sender Address</label>
-                            <input type="text" class="form-control" id="senderAddress" readonly />
-                        </div>
+                            <!-- Sender Address -->
+                            <div class="form-group mb-3" id="senderAddressContainer">
+                                <label class="form-label fw-bold">Sender Address</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="senderAddress" value="@HttpContextAccessor.HttpContext.Session.GetString("Address")" readonly />
+                            </div>
 
-                        <!-- Request Account: Dropdown Accounts -->
-                        <div class="form-group" id="requestAccountContainer" style="display:none;">
-                            <label class="control-label">Sender Account</label>
-                            <select asp-for="RequestID" class="form-control" id="requestAccountId" name="RequestID">
-                                <option value="">Select Account</option>
-                            </select>
-                            <span asp-validation-for="RequestID" class="text-danger"></span>
-                        </div>
+                            <!-- Request Account: Dropdown Accounts -->
+                            <div class="form-group mb-3" id="requestAccountContainer" style="display:none;">
+                                <label class="form-label fw-bold">Sender Account</label>
+                                <select asp-for="RequestID" class="form-control form-control-lg shadow-sm" id="requestAccountId" name="RequestID">
+                                    <option value="">Select Account</option>
+                                </select>
+                                <span asp-validation-for="RequestID" class="text-danger d-block mt-1"></span>
+                            </div>
 
-                        <!-- Sender Account Details -->
-                        <div class="form-group" id="senderAccountDetails" style="display:none;">
-                            <label class="control-label">Account Type</label>
-                            <input type="text" class="form-control" id="senderAccountType" readonly />
-                            <label class="control-label">Total Amount</label>
-                            <input type="text" class="form-control" id="senderTotalAmount" readonly />
-                        </div>
-                    </td>
-                    <td style="width: 300px">
-                        <!-- ReceiverID: Dropdown Accounts -->
-                        <div class="form-group">
-                            <label asp-for="ReceiverID" class="control-label">Receiver Account</label>
-                            <select asp-for="ReceiverID" class="form-control" id="receiverAccountId">
-                                <option value="">Select Account</option>
-                                @foreach (var account in ViewBag.Accounts)
-                                {
-                                    <option value="@account.AccountID"
-                                            data-userid="@account.UserID"
-                                            data-accounttype="@account.AccountType"
-                                            data-fullname="@account.User?.FullName"
-                                            data-address="@account.User?.Address">
-                                        @account.AccountID - @account.AccountType (@account.User?.FullName)
-                                    </option>
-                                }
-                            </select>
-                            <span asp-validation-for="ReceiverID" class="text-danger"></span>
-                        </div>
+                            <!-- Sender Account Details -->
+                            <div class="form-group mb-3" id="senderAccountDetails" style="display:none;">
+                                <label class="form-label fw-bold">Account Type</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="senderAccountType" readonly />
+                                <label class="form-label fw-bold mt-3">Total Amount</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="senderTotalAmount" readonly />
+                            </div>
+                        </td>
+                        <td style="width: 50%; vertical-align: top;">
+                            <!-- ReceiverID: Dropdown Accounts -->
+                            <div class="form-group mb-3">
+                                <label asp-for="ReceiverID" class="form-label fw-bold">Receiver Account</label>
+                                <select asp-for="ReceiverID" class="form-control form-control-lg shadow-sm" id="receiverAccountId">
+                                    <option value="">Select Account</option>
+                                    @foreach (var account in ViewBag.Accounts)
+                                    {
+                                        <option value="@account.AccountID"
+                                                data-userid="@account.UserID"
+                                                data-accounttype="@account.AccountType"
+                                                data-fullname="@account.User?.FullName"
+                                                data-address="@account.User?.Address">
+                                            @account.AccountID - @account.AccountType (@account.User?.FullName)
+                                        </option>
+                                    }
+                                </select>
+                                <span asp-validation-for="ReceiverID" class="text-danger d-block mt-1"></span>
+                            </div>
 
-                        <!-- Receiver Account Details -->
-                        <div class="form-group" id="receiverDetails" style="display:none;">
-                            <label class="control-label">Account Type</label>
-                            <input type="text" class="form-control" id="receiverAccountType" readonly />
-                            <label class="control-label">Full Name</label>
-                            <input type="text" class="form-control" id="receiverFullName" readonly />
-                            <label class="control-label">Address</label>
-                            <input type="text" class="form-control" id="receiverAddress" readonly />
-                        </div>
-                    </td>
-                </tr>
-                <tr style="vertical-align: top">
-                    <td>
-                        <!-- Amount -->
-                        <div class="form-group">
-                            <label asp-for="Amount" class="control-label"></label>
-                            <input asp-for="Amount" class="form-control" type="number" step="0.01" min="0" />
-                            <span asp-validation-for="Amount" class="text-danger"></span>
-                        </div>
+                            <!-- Receiver Account Details -->
+                            <div class="form-group mb-3" id="receiverDetails" style="display:none;">
+                                <label class="form-label fw-bold">Account Type</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="receiverAccountType" readonly />
+                                <label class="form-label fw-bold mt-3">Full Name</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="receiverFullName" readonly />
+                                <label class="form-label fw-bold mt-3">Address</label>
+                                <input type="text" class="form-control form-control-lg bg-light shadow-sm" id="receiverAddress" readonly />
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <!-- Amount -->
+                            <div class="form-group mb-3">
+                                <label asp-for="Amount" class="form-label fw-bold">Amount</label>
+                                <input asp-for="Amount" class="form-control form-control-lg shadow-sm" type="number" step="0.01" min="0" />
+                                <span asp-validation-for="Amount" class="text-danger d-block mt-1"></span>
+                            </div>
 
-                        <!-- Reason -->
-                        <div class="form-group">
-                            <label asp-for="Reason" class="control-label"></label>
-                            <textarea asp-for="Reason" class="form-control"></textarea>
-                            <span asp-validation-for="Reason" class="text-danger"></span>
-                        </div>
+                            <!-- Reason -->
+                            <div class="form-group mb-3">
+                                <label asp-for="Reason" class="form-label fw-bold">Reason</label>
+                                <textarea asp-for="Reason" class="form-control form-control-lg shadow-sm"></textarea>
+                                <span asp-validation-for="Reason" class="text-danger d-block mt-1"></span>
+                            </div>
 
-                        <!-- Submit -->
-                        <div class="form-group">
-                            <input type="submit" value="Create" class="btn btn-primary" />
-                        </div>
-                    </td>
-                </tr>
-            </table>
-        </form>
+                            <!-- Submit -->
+                            <div class="form-group">
+                                <input type="submit" value="Submit" class="btn btn-primary btn-lg w-100" />
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
     </div>
 </div>
 
@@ -110,49 +110,40 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
         $(document).ready(function () {
-            // Khi chọn User (RequestID)
-            $("#requestUserId").change(function () {
-                var userId = $(this).val();
-                var address = $(this).find("option:selected").data("address");
-
-                if (userId) {
-                    // Hiển thị Address
-                    $("#senderAddress").val(address);
-                    $("#senderAddressContainer").show();
-
-                    // Tải danh sách Accounts của User
-                    $.ajax({
-                        url: "/Transactions/GetAccountsByUser",
-                        type: "GET",
-                        data: { userId: userId },
-                        success: function (data) {
-                            var accountSelect = $("#requestAccountId");
-                            accountSelect.empty();
-                            accountSelect.append('<option value="">Select Account</option>');
-                            $.each(data, function (index, account) {
-                                accountSelect.append(
-                                    '<option value="' + account.accountID + '" ' +
-                                    'data-accounttype="' + account.accountType + '" ' +
-                                    'data-amount="' + account.totalAmount + '">' +
-                                    account.accountID + ' - ' + account.accountType +
-                                    '</option>'
-                                );
-                            });
-                            $("#requestAccountContainer").show();
-                            $("#senderAccountDetails").hide();
-                        },
-                        error: function () {
-                            alert("Failed to load accounts.");
-                            $("#requestAccountContainer").hide();
-                            $("#senderAccountDetails").hide();
-                        }
-                    });
-                } else {
-                    $("#senderAddressContainer").hide();
-                    $("#requestAccountContainer").hide();
-                    $("#senderAccountDetails").hide();
-                }
-            });
+            // Lấy UserID từ hidden input và tải accounts
+            var userId = $("#requestUserId").val();
+            if (userId) {
+                $("#senderAddressContainer").show();
+                $.ajax({
+                    url: "/Transactions/GetAccountsByUser",
+                    type: "GET",
+                    data: { userId: userId },
+                    success: function (data) {
+                        var accountSelect = $("#requestAccountId");
+                        accountSelect.empty();
+                        accountSelect.append('<option value="">Select Account</option>');
+                        $.each(data, function (index, account) {
+                            accountSelect.append(
+                                '<option value="' + account.accountID + '" ' +
+                                'data-accounttype="' + account.accountType + '" ' +
+                                'data-amount="' + account.totalAmount + '">' +
+                                account.accountID + ' - ' + account.accountType +
+                                '</option>'
+                            );
+                        });
+                        $("#requestAccountContainer").show();
+                    },
+                    error: function () {
+                        alert("Failed to load accounts.");
+                        $("#requestAccountContainer").hide();
+                        $("#senderAccountDetails").hide();
+                    }
+                });
+            } else {
+                $("#senderAddressContainer").hide();
+                $("#requestAccountContainer").hide();
+                $("#senderAccountDetails").hide();
+            }
 
             // Khi chọn Account của Sender
             $("#requestAccountId").change(function () {
@@ -183,6 +174,47 @@
                     $("#receiverDetails").hide();
                 }
             });
+
+            // Validation trước khi submit
+            $("form").submit(function (e) {
+                var userId = $("#requestUserId").val();
+                var accountId = $("#requestAccountId").val();
+                if (!userId) {
+                    e.preventDefault();
+                    $("#requestUserIdError").text("Please select a user.");
+                } else if (!accountId) {
+                    e.preventDefault();
+                    $("#requestUserIdError").text("Please select an account.");
+                } else {
+                    $("#requestUserIdError").text("");
+                }
+            });
         });
     </script>
 }
+
+<style>
+    /* Tùy chỉnh cho form trên desktop */
+    .form-control[readonly] {
+        background-color: #f8f9fa;
+        border-color: #ced4da;
+        opacity: 1;
+    }
+
+    .form-control:focus, .form-select:focus {
+        box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    }
+
+    .text-danger {
+        font-size: 0.875rem;
+    }
+
+    .btn-primary:hover {
+        background-color: #005cbf;
+        border-color: #0052cc;
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+</style>

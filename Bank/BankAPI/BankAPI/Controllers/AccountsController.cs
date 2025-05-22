@@ -19,7 +19,7 @@ namespace BankAPI.Controllers
         // GET: api/Accounts
         public IQueryable<Accounts> GetAccounts()
         {
-            return db.Accounts;
+            return db.Accounts.Include(a => a.Users);
         }
 
         // GET: api/Accounts/5

@@ -15,7 +15,8 @@
 <body>
     @{
         string userName = HttpContextAccessor.HttpContext.Session.GetString("UserName");
-        Console.WriteLine($"Session UserName: {userName}, Path: {HttpContextAccessor.HttpContext.Request.Path}");
+        string fullName = HttpContextAccessor.HttpContext.Session.GetString("FullName");
+        Console.WriteLine($"Session UserName: {userName}, FullName: {fullName}, Path: {HttpContextAccessor.HttpContext.Request.Path}");
         if (string.IsNullOrEmpty(userName) && !HttpContextAccessor.HttpContext.Request.Path.StartsWithSegments("/Users/Login"))
         {
             <script>
@@ -44,9 +45,14 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Index">Accounts</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Transactions" asp-action="Index">Transactions</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Transactions" asp-action="Create">Transactions</a>
                         </li>
                     </ul>
+
+                    <div class="ml-auto d-flex align-items-center">
+                        <span class="text-dark me-2">👋 Hello, @fullName</span>
+                        <button class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#logoutModal">Logout</button>
+                    </div>
                 </div>
             </div>
         </nav>
@@ -57,11 +63,31 @@
         </main>
     </div>
 
+    <!-- Logout Modal -->
+    <div class="modal fade" id="logoutModal" tabindex="-1" aria-labelledby="logoutModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header bg-warning text-dark">
+                    <h5 class="modal-title" id="logoutModalLabel">Confirm Logout</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Are you sure you want to logout?
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <a href="@Url.Action("Logout", "Users")" class="btn btn-warning">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2025 - BankClient - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

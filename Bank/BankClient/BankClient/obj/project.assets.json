@@ -5505,11 +5505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
+      "projectUniqueName": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
       "projectName": "BankClient",
-      "projectPath": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
+      "projectPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
       "packagesPath": "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\",
-      "outputPath": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\obj\\",
+      "outputPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

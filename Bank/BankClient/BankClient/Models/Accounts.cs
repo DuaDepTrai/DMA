@@ -1,4 +1,6 @@
-﻿namespace BankClient.Models
+﻿using Newtonsoft.Json;
+
+namespace BankClient.Models
 {
     public class Accounts
     {
@@ -7,6 +9,7 @@
         public System.DateTime CreateDate { get; set; }
         public decimal? TotalAmount { get; set; }
         public int? UserID { get; set; }
+        [JsonProperty("users")] 
         public Users User { get; set; }
     }
 }

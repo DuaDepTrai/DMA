@@ -60,7 +60,11 @@ namespace BankAPI.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Kiểm tra tài khoản gửi và nhận
+            if (transactions.RequestID == transactions.ReceiverID)
+            {
+                return BadRequest("RequestID and ReceiverID cannot be the same.");
+            }
+
             var requestAccount = db.Accounts.Find(transactions.RequestID);
             var receiverAccount = db.Accounts.Find(transactions.ReceiverID);
 
@@ -69,20 +73,16 @@ namespace BankAPI.Controllers
                 return BadRequest("Invalid RequestID or ReceiverID.");
             }
 
-            // Kiểm tra số dư
             if (requestAccount.TotalAmount < transactions.Amount)
             {
                 return BadRequest("Insufficient balance in request account.");
             }
 
-            // Cập nhật số dư
             requestAccount.TotalAmount -= transactions.Amount;
             receiverAccount.TotalAmount += transactions.Amount;
 
-            // Set TransferTime
             transactions.TransferTime = DateTime.Now;
 
-            // Lưu giao dịch
             db.Transactions.Add(transactions);
             db.SaveChanges();
 

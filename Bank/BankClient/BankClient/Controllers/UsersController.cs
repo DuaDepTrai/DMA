@@ -243,6 +243,8 @@ namespace BankClient.Controllers
                     // Lưu session
                     HttpContext.Session.SetInt32("UserID", matchedUser.UserID);
                     HttpContext.Session.SetString("UserName", matchedUser.UserName);
+                    HttpContext.Session.SetString("FullName", matchedUser.FullName);
+                    HttpContext.Session.SetString("Address", matchedUser.Address);
                     Console.WriteLine($"Session set: UserName={matchedUser.UserName}");
 
                     return RedirectToAction("Index", "Home");
@@ -255,5 +257,12 @@ namespace BankClient.Controllers
 
             return View(user);
         }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Login", "Users");
+        }
+
     }
 }
