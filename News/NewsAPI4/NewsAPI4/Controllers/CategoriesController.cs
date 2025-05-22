@@ -102,5 +102,12 @@ namespace NewsAPI4.Controllers
             return db.Category.Count(e => e.CategoryID == id) > 0;
         }
 
+        [HttpGet]
+        [Route("api/CheckCategoryUsing")]
+        public bool CheckCategoryUsing(int id)
+        {
+            return db.NEWS.Any(n => n.CategoryID == id);
+        }
+
     }
 }

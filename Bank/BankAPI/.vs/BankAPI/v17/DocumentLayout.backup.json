@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\bank.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\bank.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "BankAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "BankAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:56:55.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAjwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:14:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:13:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:13:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Users.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
+              "RelativeToolTip": "BankAPI\\Users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:12:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Transactions.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
+              "RelativeToolTip": "BankAPI\\Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:12:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Accounts.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
+              "RelativeToolTip": "BankAPI\\Accounts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:12:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bank.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Bank.edmx",
+              "RelativeDocumentMoniker": "BankAPI\\Bank.edmx",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Bank.edmx [Diagram1]",
+              "RelativeToolTip": "BankAPI\\Bank.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-21T12:09:03.562Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

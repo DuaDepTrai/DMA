@@ -1,0 +1,188 @@
+﻿@model BankClient.Models.Transactions
+@{
+    ViewData["Title"] = "Create Transaction";
+}
+
+<h2>Create Transaction</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table style="vertical-align: top">
+                <tr style ="vertical-align: top">
+                    <td style="width: 300px">
+                        <!-- RequestID: Dropdown Users -->
+                        <div class="form-group">
+                            <label class="control-label">Sender (User)</label>
+                            <select asp-for="RequestID" class="form-control" id="requestUserId" name="RequestID">
+                                <option value="">Select User</option>
+                                @foreach (var user in ViewBag.Users)
+                                {
+                                    <option value="@user.UserID" data-address="@user.Address">@user.FullName</option>
+                                }
+                            </select>
+                            <span asp-validation-for="RequestID" class="text-danger"></span>
+                        </div>
+
+                        <!-- Sender Address -->
+                        <div class="form-group" id="senderAddressContainer" style="display:none;">
+                            <label class="control-label">Sender Address</label>
+                            <input type="text" class="form-control" id="senderAddress" readonly />
+                        </div>
+
+                        <!-- Request Account: Dropdown Accounts -->
+                        <div class="form-group" id="requestAccountContainer" style="display:none;">
+                            <label class="control-label">Sender Account</label>
+                            <select asp-for="RequestID" class="form-control" id="requestAccountId" name="RequestID">
+                                <option value="">Select Account</option>
+                            </select>
+                            <span asp-validation-for="RequestID" class="text-danger"></span>
+                        </div>
+
+                        <!-- Sender Account Details -->
+                        <div class="form-group" id="senderAccountDetails" style="display:none;">
+                            <label class="control-label">Account Type</label>
+                            <input type="text" class="form-control" id="senderAccountType" readonly />
+                            <label class="control-label">Total Amount</label>
+                            <input type="text" class="form-control" id="senderTotalAmount" readonly />
+                        </div>
+                    </td>
+                    <td style="width: 300px">
+                        <!-- ReceiverID: Dropdown Accounts -->
+                        <div class="form-group">
+                            <label asp-for="ReceiverID" class="control-label">Receiver Account</label>
+                            <select asp-for="ReceiverID" class="form-control" id="receiverAccountId">
+                                <option value="">Select Account</option>
+                                @foreach (var account in ViewBag.Accounts)
+                                {
+                                    <option value="@account.AccountID"
+                                            data-userid="@account.UserID"
+                                            data-accounttype="@account.AccountType"
+                                            data-fullname="@account.User?.FullName"
+                                            data-address="@account.User?.Address">
+                                        @account.AccountID - @account.AccountType (@account.User?.FullName)
+                                    </option>
+                                }
+                            </select>
+                            <span asp-validation-for="ReceiverID" class="text-danger"></span>
+                        </div>
+
+                        <!-- Receiver Account Details -->
+                        <div class="form-group" id="receiverDetails" style="display:none;">
+                            <label class="control-label">Account Type</label>
+                            <input type="text" class="form-control" id="receiverAccountType" readonly />
+                            <label class="control-label">Full Name</label>
+                            <input type="text" class="form-control" id="receiverFullName" readonly />
+                            <label class="control-label">Address</label>
+                            <input type="text" class="form-control" id="receiverAddress" readonly />
+                        </div>
+                    </td>
+                </tr>
+                <tr style="vertical-align: top">
+                    <td>
+                        <!-- Amount -->
+                        <div class="form-group">
+                            <label asp-for="Amount" class="control-label"></label>
+                            <input asp-for="Amount" class="form-control" type="number" step="0.01" min="0" />
+                            <span asp-validation-for="Amount" class="text-danger"></span>
+                        </div>
+
+                        <!-- Reason -->
+                        <div class="form-group">
+                            <label asp-for="Reason" class="control-label"></label>
+                            <textarea asp-for="Reason" class="form-control"></textarea>
+                            <span asp-validation-for="Reason" class="text-danger"></span>
+                        </div>
+
+                        <!-- Submit -->
+                        <div class="form-group">
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Khi chọn User (RequestID)
+            $("#requestUserId").change(function () {
+                var userId = $(this).val();
+                var address = $(this).find("option:selected").data("address");
+
+                if (userId) {
+                    // Hiển thị Address
+                    $("#senderAddress").val(address);
+                    $("#senderAddressContainer").show();
+
+                    // Tải danh sách Accounts của User
+                    $.ajax({
+                        url: "/Transactions/GetAccountsByUser",
+                        type: "GET",
+                        data: { userId: userId },
+                        success: function (data) {
+                            var accountSelect = $("#requestAccountId");
+                            accountSelect.empty();
+                            accountSelect.append('<option value="">Select Account</option>');
+                            $.each(data, function (index, account) {
+                                accountSelect.append(
+                                    '<option value="' + account.accountID + '" ' +
+                                    'data-accounttype="' + account.accountType + '" ' +
+                                    'data-amount="' + account.totalAmount + '">' +
+                                    account.accountID + ' - ' + account.accountType +
+                                    '</option>'
+                                );
+                            });
+                            $("#requestAccountContainer").show();
+                            $("#senderAccountDetails").hide();
+                        },
+                        error: function () {
+                            alert("Failed to load accounts.");
+                            $("#requestAccountContainer").hide();
+                            $("#senderAccountDetails").hide();
+                        }
+                    });
+                } else {
+                    $("#senderAddressContainer").hide();
+                    $("#requestAccountContainer").hide();
+                    $("#senderAccountDetails").hide();
+                }
+            });
+
+            // Khi chọn Account của Sender
+            $("#requestAccountId").change(function () {
+                var accountId = $(this).val();
+                if (accountId) {
+                    var accountType = $(this).find("option:selected").data("accounttype");
+                    var amount = $(this).find("option:selected").data("amount");
+                    $("#senderAccountType").val(accountType);
+                    $("#senderTotalAmount").val(amount);
+                    $("#senderAccountDetails").show();
+                } else {
+                    $("#senderAccountDetails").hide();
+                }
+            });
+
+            // Khi chọn Receiver Account
+            $("#receiverAccountId").change(function () {
+                var accountId = $(this).val();
+                if (accountId) {
+                    var accountType = $(this).find("option:selected").data("accounttype");
+                    var fullName = $(this).find("option:selected").data("fullname");
+                    var address = $(this).find("option:selected").data("address");
+                    $("#receiverAccountType").val(accountType);
+                    $("#receiverFullName").val(fullName);
+                    $("#receiverAddress").val(address);
+                    $("#receiverDetails").show();
+                } else {
+                    $("#receiverDetails").hide();
+                }
+            });
+        });
+    </script>
+}
