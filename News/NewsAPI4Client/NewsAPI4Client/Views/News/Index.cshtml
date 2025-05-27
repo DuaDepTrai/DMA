@@ -64,8 +64,8 @@
                         <tr>
                             <td>@Html.DisplayFor(modelItem => item.ID)</td>
                             <td>@Html.DisplayFor(modelItem => item.tieu_de)</td>
-                            <td>@Html.DisplayFor(modelItem => item.tom_tat)</td>
-                            <td>@Html.DisplayFor(modelItem => item.noi_dung)</td>
+                            <td><div class="limit-lines">@Html.DisplayFor(modelItem => item.tom_tat)</td>
+                            <td><div class="limit-lines">@Html.DisplayFor(modelItem => item.noi_dung)</td>
                             <td>@Html.DisplayFor(modelItem => item.time_tao)</td>
                             <td>@Html.DisplayFor(modelItem => item.numberRead)</td>
                             <td>@Html.DisplayFor(modelItem => item.image)</td>
@@ -83,3 +83,13 @@
         </td>
     </tr>
 </table>
+
+<style>
+    .limit-lines {
+        display: -webkit-box;
+        -webkit-line-clamp: 5; /* Số dòng muốn giới hạn */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
