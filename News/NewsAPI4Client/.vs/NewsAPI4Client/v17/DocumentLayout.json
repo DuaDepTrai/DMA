@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +39,24 @@
       "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|solutionrelative:newsapi4client\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D634AF7B-5DBD-4241-B84C-2BCD2991B040}|NewsAPI4Client\\NewsAPI4Client.csproj|e:\\aptech - it\\dma\\news\\newsapi4client\\newsapi4client\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,33 +134,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NewsAPI4Client\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T14:35:57.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Users\\Login.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Users\\Login.cshtml",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Users\\Login.cshtml",
               "RelativeToolTip": "NewsAPI4Client\\Views\\Users\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T14:35:17.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\News\\Delete.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\News\\Delete.cshtml",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\News\\Edit.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\News\\Edit.cshtml",
@@ -180,11 +180,12 @@
               "RelativeToolTip": "NewsAPI4Client\\Views\\News\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T14:34:32.198Z"
+              "WhenOpened": "2025-05-20T14:34:32.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\News\\Create.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\News\\Create.cshtml",
@@ -192,8 +193,7 @@
               "RelativeToolTip": "NewsAPI4Client\\Views\\News\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T14:34:00.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T14:34:00.162Z"
             },
             {
               "$type": "Document",
@@ -209,32 +209,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\News\\Index.cshtml",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\News\\Index.cshtml",
               "RelativeToolTip": "NewsAPI4Client\\Views\\News\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswFQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T14:28:48.537Z"
+              "WhenOpened": "2025-05-20T14:28:48.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "NewsController.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Controllers\\NewsController.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Controllers\\NewsController.cs",
               "RelativeToolTip": "NewsAPI4Client\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAwwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T14:24:14.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "News.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\News.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Models\\News.cs",
@@ -246,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Categories\\Delete.cshtml",
@@ -270,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Categories\\Create.cshtml",
@@ -306,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Controllers\\CategoriesController.cs",
@@ -319,19 +320,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\Category.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Models\\Category.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\Category.cs",
               "RelativeToolTip": "NewsAPI4Client\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:45:16.554Z"
+              "WhenOpened": "2025-05-20T11:45:16.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Users\\Delete.cshtml",
@@ -343,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Views\\Users\\Edit.cshtml",
@@ -391,59 +393,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Users.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\Users.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Models\\Users.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\Users.cs",
               "RelativeToolTip": "NewsAPI4Client\\Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:35:55.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Controllers\\UsersController.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Controllers\\UsersController.cs",
               "RelativeToolTip": "NewsAPI4Client\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAkwNkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAANYAAAAAAAAAAAAqwPYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:33:33.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RestClient.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\RestClient.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Models\\RestClient.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\RestClient.cs",
               "RelativeToolTip": "NewsAPI4Client\\Models\\RestClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:31:31.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MySettings.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\MySettings.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Models\\MySettings.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Models\\MySettings.cs",
               "RelativeToolTip": "NewsAPI4Client\\Models\\MySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:12:54.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\appsettings.json",
               "RelativeDocumentMoniker": "NewsAPI4Client\\appsettings.json",
@@ -456,13 +458,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Program.cs",
               "RelativeDocumentMoniker": "NewsAPI4Client\\Program.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\News\\NewsAPI4Client\\NewsAPI4Client\\Program.cs",
               "RelativeToolTip": "NewsAPI4Client\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:11:54.122Z",
               "EditorCaption": ""

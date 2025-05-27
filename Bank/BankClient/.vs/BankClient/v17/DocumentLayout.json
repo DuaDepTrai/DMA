@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\",
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankclient\\bankclient\\models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|e:\\aptech - it\\dma\\bank\\bankclient\\bankclient\\models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCFD574-3888-4045-A229-1CDFB96B0D4A}|BankClient\\BankClient.csproj|solutionrelative:bankclient\\models\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -132,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Login.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Login.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Users\\Login.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Login.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Login.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Users\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -144,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Delete.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Delete.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Transactions\\Delete.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Delete.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Transactions\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -156,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Edit.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Edit.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Transactions\\Edit.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Edit.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Transactions\\Edit.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -166,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Create.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Create.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Transactions\\Create.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Create.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Transactions\\Create.cshtml",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswGUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T13:17:10.938Z",
               "EditorCaption": ""
@@ -181,22 +181,21 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Details.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Details.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Transactions\\Details.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Details.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Details.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Transactions\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:16:06.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:16:06.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Index.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Index.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Transactions\\Index.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Transactions\\Index.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Transactions\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -206,11 +205,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TransactionsController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\TransactionsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "BankClient\\Controllers\\TransactionsController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "BankClient\\Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAApwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:30:02.942Z",
               "EditorCaption": ""
@@ -219,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Delete.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Delete.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Accounts\\Delete.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Delete.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Accounts\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -231,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Edit.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Edit.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Accounts\\Edit.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Edit.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Accounts\\Edit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -243,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Create.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Create.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Accounts\\Create.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Create.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Accounts\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -255,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Details.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Details.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Accounts\\Details.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Details.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Accounts\\Details.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -267,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Index.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Index.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Accounts\\Index.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Accounts\\Index.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Accounts\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -279,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "BankClient\\Controllers\\AccountsController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "BankClient\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAuwIQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Edit.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Edit.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Users\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -303,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Create.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Users\\Create.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -315,9 +314,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Details.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Users\\Details.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Details.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Details.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Users\\Details.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -327,9 +326,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Users\\Index.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,76 +336,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BankClient\\Controllers\\UsersController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BankClient\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAswPkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAswAYBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:29:22.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BankClient\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BankClient\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T13:01:09.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:01:09.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Transactions.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Transactions.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Transactions.cs",
               "RelativeDocumentMoniker": "BankClient\\Models\\Transactions.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Transactions.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Transactions.cs",
               "RelativeToolTip": "BankClient\\Models\\Transactions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:28:06.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:28:06.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Accounts.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Accounts.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Accounts.cs",
               "RelativeDocumentMoniker": "BankClient\\Models\\Accounts.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Accounts.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Accounts.cs",
               "RelativeToolTip": "BankClient\\Models\\Accounts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:27:32.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:27:32.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Users.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Users.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Users.cs",
               "RelativeDocumentMoniker": "BankClient\\Models\\Users.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\Users.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\Users.cs",
               "RelativeToolTip": "BankClient\\Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:26:27.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:26:27.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "MySettings.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\MySettings.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\MySettings.cs",
               "RelativeDocumentMoniker": "BankClient\\Models\\MySettings.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\MySettings.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\MySettings.cs",
               "RelativeToolTip": "BankClient\\Models\\MySettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,22 +411,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RestClient.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\RestClient.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\RestClient.cs",
               "RelativeDocumentMoniker": "BankClient\\Models\\RestClient.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Models\\RestClient.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Models\\RestClient.cs",
               "RelativeToolTip": "BankClient\\Models\\RestClient.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:20:32.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:20:32.507Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\appsettings.json",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\appsettings.json",
               "RelativeDocumentMoniker": "BankClient\\appsettings.json",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\appsettings.json",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\appsettings.json",
               "RelativeToolTip": "BankClient\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -441,9 +435,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Program.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Program.cs",
               "RelativeDocumentMoniker": "BankClient\\Program.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\Program.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\Program.cs",
               "RelativeToolTip": "BankClient\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

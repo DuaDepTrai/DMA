@@ -1,0 +1,7 @@
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\bin\WcfService.dll.config
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\bin\WcfService.dll
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\bin\WcfService.pdb
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\obj\Debug\WcfService.dll
+E:\APTECH - IT\DMA\WCFService\WcfService\WcfService\obj\Debug\WcfService.pdb

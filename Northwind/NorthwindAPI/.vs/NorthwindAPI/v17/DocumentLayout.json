@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|solutionrelative:northwindapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666F2836-83D4-4B81-814C-6BEF0C7C7722}|NorthwindAPI\\NorthwindAPI.csproj|e:\\aptech - it\\dma\\northwind\\northwindapi\\northwindapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 256,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,37 +134,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\DBContext.cs",
-              "RelativeDocumentMoniker": "NorthwindAPI\\Models\\DBContext.cs",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\DBContext.cs",
-              "RelativeToolTip": "NorthwindAPI\\Models\\DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:10:02.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Program.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Program.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Program.cs",
               "RelativeToolTip": "NorthwindAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:17:56.947Z"
+              "WhenOpened": "2025-05-09T12:17:56.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "NorthwindAPI\\Models\\DBContext.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\DBContext.cs",
+              "RelativeToolTip": "NorthwindAPI\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:10:02.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\appsettings.json",
               "RelativeDocumentMoniker": "NorthwindAPI\\appsettings.json",
               "ToolTip": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\appsettings.json",
               "RelativeToolTip": "NorthwindAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-09T12:14:03.839Z",
               "EditorCaption": ""
@@ -201,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Controllers\\CustomersController.cs",
@@ -237,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Employees.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\Employees.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Models\\Employees.cs",
@@ -333,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Products.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\Products.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Models\\Products.cs",
@@ -441,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Controllers\\UsersController.cs",
@@ -454,15 +456,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Users.cs",
               "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\Users.cs",
               "RelativeDocumentMoniker": "NorthwindAPI\\Models\\Users.cs",
               "ToolTip": "E:\\APTECH - IT\\DMA\\Northwind\\NorthwindAPI\\NorthwindAPI\\Models\\Users.cs",
               "RelativeToolTip": "NorthwindAPI\\Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:09:18.706Z"
+              "WhenOpened": "2025-05-12T08:09:18.706Z",
+              "EditorCaption": ""
             }
           ]
         }

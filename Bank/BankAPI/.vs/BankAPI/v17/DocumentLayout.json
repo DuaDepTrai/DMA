@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\",
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankapi\\bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|g:\\it-aptech\\bai-tap-code\\dma\\bank\\bankapi\\bankapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|e:\\aptech - it\\dma\\bank\\bankapi\\bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\bankapi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\bankapi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32964ED2-054D-4900-812B-9D2620118534}|BankAPI\\BankAPI.csproj|solutionrelative:bankapi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,13 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Web.config",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Web.config",
               "RelativeDocumentMoniker": "BankAPI\\Web.config",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Web.config",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Web.config",
               "RelativeToolTip": "BankAPI\\Web.config",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEgAAADNAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-05-22T15:19:11.044Z",
               "EditorCaption": ""
@@ -73,35 +73,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "BankAPI\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "BankAPI\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:56:55.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:56:55.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BankAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BankAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:14:06.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TransactionsController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
-              "RelativeDocumentMoniker": "BankAPI\\Controllers\\TransactionsController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\TransactionsController.cs",
-              "RelativeToolTip": "BankAPI\\Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwEwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:06.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "BankAPI\\Controllers\\AccountsController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "BankAPI\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAuwGsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BankAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BankAPI\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Users.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
               "RelativeDocumentMoniker": "BankAPI\\Users.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Users.cs",
               "RelativeToolTip": "BankAPI\\Users.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Transactions.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
               "RelativeDocumentMoniker": "BankAPI\\Transactions.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Transactions.cs",
               "RelativeToolTip": "BankAPI\\Transactions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,16 +144,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Accounts.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
               "RelativeDocumentMoniker": "BankAPI\\Accounts.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Bank\\BankAPI\\BankAPI\\Accounts.cs",
               "RelativeToolTip": "BankAPI\\Accounts.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:12:23.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:12:23.565Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3utbrTuXaRI=",
+  "dgSpecHash": "1OovkOSpQsY=",
   "success": true,
-  "projectFilePath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
+  "projectFilePath": "E:\\APTECH - IT\\DMA\\Bank\\BankClient\\BankClient\\BankClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\DUADEPTRAI\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
