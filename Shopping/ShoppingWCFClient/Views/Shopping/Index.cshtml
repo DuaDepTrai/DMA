@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ShoppingWCFClient.Models.Product>
+@using ShoppingWCFClient.Models
+
+@{
+    ViewBag.Title = "Shopping";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Shopping</h2>
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}
+
+<div style="display: flex;">
+    <!-- Categories GridView (Left) -->
+    <div style="width: 20%; margin-right: 20px;">
+        <h3>Categories</h3>
+        <table class="table">
+            <tr>
+                <th>Category Name</th>
+            </tr>
+            @foreach (Category item in ViewBag.Categories)
+            {
+                <tr>
+                    <td>
+                        @Html.ActionLink(item.CategoryName, "ByCategory", new { id = item.CategoryID })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+
+    <!-- Products GridView and Search Form (Right) -->
+    <div style="width: 80%;">
+        <!-- Search Form -->
+        <h3>Search Products</h3>
+        @using (Html.BeginForm("Search", "Shopping", FormMethod.Post))
+        {
+            <div style="margin-bottom: 20px;">
+                <label>Search in Category: </label>
+                <select name="categoryId" class="form-control" style="display:inline-block; width: 200px;">
+                    <option value="">All Categories</option>
+                    @foreach (Category item in ViewBag.Categories)
+                    {
+                        <option value="@item.CategoryID">@item.CategoryName</option>
+                    }
+                </select>
+
+                <label style="margin-left: 10px;">Search by: </label>
+                <select name="property" class="form-control" style="display:inline-block; width: 150px;">
+                    @foreach (string item in ViewBag.SearchByOptions)
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+
+                <label style="margin-left: 10px;">Text to search: </label>
+                <input type="text" name="value" class="form-control" style="display:inline-block; width: 200px;" />
+
+                <input type="submit" value="Search" class="btn btn-primary" style="margin-left: 10px;" />
+            </div>
+        }
+
+        <!-- Products GridView -->
+        <h3>Products</h3>
+        <table class="table">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.ProductName)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
