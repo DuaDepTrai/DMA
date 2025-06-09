@@ -5,3 +5,10 @@ G:\IT-APTECH\Bai-tap-Code\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfS
 G:\IT-APTECH\Bai-tap-Code\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.csproj.CoreCompileInputs.cache
 G:\IT-APTECH\Bai-tap-Code\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.dll
 G:\IT-APTECH\Bai-tap-Code\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.pdb
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\bin\ShoppingWcfService.dll.config
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\bin\ShoppingWcfService.dll
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\bin\ShoppingWcfService.pdb
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.csproj.AssemblyReference.cache
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.csproj.CoreCompileInputs.cache
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.dll
+E:\APTECH - IT\DMA\Shopping\ShoppingWcfService\obj\Debug\ShoppingWcfService.pdb

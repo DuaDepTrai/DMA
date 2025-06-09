@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfservice1\\wcfservice1\\entityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\entityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfservice1\\wcfservice1\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfservice1\\wcfservice1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfservice1\\wcfservice1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfservice1\\wcfservice1\\wcfservice1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3E18EF43-1D09-418C-BF08-85B5CA80DB87}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\wcfservice1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Categories.cs",
+              "RelativeDocumentMoniker": "WcfService1\\Categories.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Categories.cs",
+              "RelativeToolTip": "WcfService1\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:26:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Web.config",
+              "RelativeDocumentMoniker": "WcfService1\\Web.config",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Web.config",
+              "RelativeToolTip": "WcfService1\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T12:22:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityWS.asmx.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\EntityWS.asmx.cs",
+              "RelativeDocumentMoniker": "WcfService1\\EntityWS.asmx.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\EntityWS.asmx.cs",
+              "RelativeToolTip": "WcfService1\\EntityWS.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:22:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WCFService1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\WCFService1.edmx",
+              "RelativeDocumentMoniker": "WcfService1\\WCFService1.edmx",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\WCFService1.edmx [Diagram1]",
+              "RelativeToolTip": "WcfService1\\WCFService1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-28T12:18:26.253Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WcfService1\\Service1.svc.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfService1\\WcfService1\\Service1.svc.cs",
+              "RelativeToolTip": "WcfService1\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:16:29.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\controllers\\sexescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\controllers\\sexescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|e:\\aptech - it\\dma\\hrm\\hrm1api\\hrm1api\\models\\sex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6667299C-D05F-45F5-BD06-826371EF5687}|HRM1API\\HRM1API.csproj|solutionrelative:hrm1api\\models\\sex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HRM1API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:38:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HRM1API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:38:08.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SexesController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\SexesController.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Controllers\\SexesController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\SexesController.cs",
+              "RelativeToolTip": "HRM1API\\Controllers\\SexesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Controllers\\PositionsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "HRM1API\\Controllers\\PositionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:17.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Controllers\\OrganizationsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "HRM1API\\Controllers\\OrganizationsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:36:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\Users.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Users.cs",
+              "RelativeToolTip": "HRM1API\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:23:00.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\Organization.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Organization.cs",
+              "RelativeToolTip": "HRM1API\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:19:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\Position.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Position.cs",
+              "RelativeToolTip": "HRM1API\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:18:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sex.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Sex.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\Sex.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Sex.cs",
+              "RelativeToolTip": "HRM1API\\Models\\Sex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:18:07.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\Employee.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\Employee.cs",
+              "RelativeToolTip": "HRM1API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:08:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Models\\DBContext.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Models\\DBContext.cs",
+              "RelativeToolTip": "HRM1API\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:02:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Program.cs",
+              "RelativeDocumentMoniker": "HRM1API\\Program.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\Program.cs",
+              "RelativeToolTip": "HRM1API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:02:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRM1API\\appsettings.json",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1API\\HRM1API\\appsettings.json",
+              "RelativeToolTip": "HRM1API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T11:59:50.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

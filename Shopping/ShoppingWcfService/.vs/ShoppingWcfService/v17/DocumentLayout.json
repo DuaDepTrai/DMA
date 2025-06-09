@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\",
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|g:\\it-aptech\\bai-tap-code\\dma\\shopping\\shoppingwcfservice\\shopping.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|solutionrelative:shopping.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|g:\\it-aptech\\bai-tap-code\\dma\\shopping\\shoppingwcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|g:\\it-aptech\\bai-tap-code\\dma\\shopping\\shoppingwcfservice\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|e:\\aptech - it\\dma\\shopping\\shoppingwcfservice\\shopping.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|solutionrelative:shopping.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFDD7B64-D661-4751-B928-18730CAE1149}|ShoppingWcfService.csproj|solutionrelative:service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Shopping.asmx.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Shopping.asmx.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Shopping.asmx.cs",
               "RelativeDocumentMoniker": "Shopping.asmx.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Shopping.asmx.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Shopping.asmx.cs",
               "RelativeToolTip": "Shopping.asmx.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T14:32:58.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Web.config",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Web.config",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAChAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-05-27T14:29:55.514Z",
               "EditorCaption": ""
@@ -66,14 +66,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Service1.svc.cs",
-              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Service1.svc.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Service1.svc.cs",
               "RelativeDocumentMoniker": "Service1.svc.cs",
-              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\Shopping\\ShoppingWcfService\\Service1.svc.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\Shopping\\ShoppingWcfService\\Service1.svc.cs",
               "RelativeToolTip": "Service1.svc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:29:50.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T14:29:50.807Z"
             }
           ]
         }

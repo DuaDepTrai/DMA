@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\controllers\\organizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\organizations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\organizations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\organizations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\organizations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\organizations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\organizations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\organizations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\organizations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\organizations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\organizations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\models\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|e:\\aptech - it\\dma\\hrm\\hrm1client\\hrm1client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A86CE99A-6A79-4423-8508-4AA4F9FCFC4B}|HRM1Client\\HRM1Client.csproj|solutionrelative:hrm1client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:47:29.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:46:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:46:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Details.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:46:01.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:45:25.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Program.cs",
+              "RelativeDocumentMoniker": "HRM1Client\\Program.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Program.cs",
+              "RelativeToolTip": "HRM1Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:33:11.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Users\\Login.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:26:57.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HRM1Client\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HRM1Client\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAewMMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:20:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:17:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RestClient.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Models\\RestClient.cs",
+              "RelativeDocumentMoniker": "HRM1Client\\Models\\RestClient.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Models\\RestClient.cs",
+              "RelativeToolTip": "HRM1Client\\Models\\RestClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:12:36.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Create.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Organizations\\Create.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Create.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Organizations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T14:01:04.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Organizations\\Delete.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Delete.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Organizations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T14:00:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Organizations\\Edit.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Edit.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Organizations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T14:00:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Details.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Organizations\\Details.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Details.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Organizations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:59:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Index.cshtml",
+              "RelativeDocumentMoniker": "HRM1Client\\Views\\Organizations\\Index.cshtml",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Views\\Organizations\\Index.cshtml",
+              "RelativeToolTip": "HRM1Client\\Views\\Organizations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T13:58:38.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizationsController.cs",
+              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Controllers\\OrganizationsController.cs",
+              "RelativeDocumentMoniker": "HRM1Client\\Controllers\\OrganizationsController.cs",
+              "ToolTip": "E:\\APTECH - IT\\DMA\\HRM\\HRM1Client\\HRM1Client\\Controllers\\OrganizationsController.cs",
+              "RelativeToolTip": "HRM1Client\\Controllers\\OrganizationsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAxwGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:51:21.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

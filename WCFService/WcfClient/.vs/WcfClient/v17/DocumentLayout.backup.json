@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\",
+  "WorkspaceRootPath": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\views\\region\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|g:\\it-aptech\\bai-tap-code\\dma\\wcfservice\\wcfclient\\wcfclient\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\views\\region\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\views\\region\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\views\\region\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\views\\region\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\views\\region\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|e:\\aptech - it\\dma\\wcfservice\\wcfclient\\wcfclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\wcfclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7D9A927-696E-444B-BC83-1E6397712E8A}|WcfClient\\WcfClient.csproj|solutionrelative:wcfclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,78 +58,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Delete.cshtml",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Delete.cshtml",
               "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Delete.cshtml",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Delete.cshtml",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Delete.cshtml",
               "RelativeToolTip": "WcfClient\\Views\\Region\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:08:31.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Edit.cshtml",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Edit.cshtml",
-              "RelativeToolTip": "WcfClient\\Views\\Region\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:08:11.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Create.cshtml",
-              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Create.cshtml",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Create.cshtml",
-              "RelativeToolTip": "WcfClient\\Views\\Region\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:00:13.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:08:31.573Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Details.cshtml",
-              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Details.cshtml",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Details.cshtml",
-              "RelativeToolTip": "WcfClient\\Views\\Region\\Details.cshtml",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Edit.cshtml",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Edit.cshtml",
+              "RelativeToolTip": "WcfClient\\Views\\Region\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T13:57:11.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:08:11.871Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Create.cshtml",
+              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Create.cshtml",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Create.cshtml",
+              "RelativeToolTip": "WcfClient\\Views\\Region\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:00:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Details.cshtml",
+              "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Details.cshtml",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Details.cshtml",
+              "RelativeToolTip": "WcfClient\\Views\\Region\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T13:57:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Index.cshtml",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Index.cshtml",
               "RelativeDocumentMoniker": "WcfClient\\Views\\Region\\Index.cshtml",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Index.cshtml",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Views\\Region\\Index.cshtml",
               "RelativeToolTip": "WcfClient\\Views\\Region\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-26T13:51:33.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RegionController.cs",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\RegionController.cs",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\RegionController.cs",
               "RelativeDocumentMoniker": "WcfClient\\Controllers\\RegionController.cs",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\RegionController.cs",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\RegionController.cs",
               "RelativeToolTip": "WcfClient\\Controllers\\RegionController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAApwHkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T13:37:26.066Z",
               "EditorCaption": ""
@@ -138,27 +134,25 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Region.cs",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Models\\Region.cs",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Models\\Region.cs",
               "RelativeDocumentMoniker": "WcfClient\\Models\\Region.cs",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Models\\Region.cs",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Models\\Region.cs",
               "RelativeToolTip": "WcfClient\\Models\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:36:08.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T13:36:08.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WcfClient\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\APTECH - IT\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\IT-APTECH\\Bai-tap-Code\\DMA\\WCFService\\WcfClient\\WcfClient\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WcfClient\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:30:22.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T13:30:22.029Z"
             }
           ]
         }

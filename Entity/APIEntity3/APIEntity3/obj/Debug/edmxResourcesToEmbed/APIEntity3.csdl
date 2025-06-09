@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NEWSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryID" />
+    </Key>
+    <Property Name="CategoryID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CategoryType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OrderInt" Type="Int32" />
+    <NavigationProperty Name="NEWS" Relationship="Self.FK_NEWS_Category" FromRole="Category" ToRole="NEWS" />
+  </EntityType>
+  <EntityType Name="NEWS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tieu_de" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="tom_tat" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="noi_dung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="time_tao" Type="DateTime" Precision="3" />
+    <Property Name="numberRead" Type="Int32" />
+    <Property Name="image" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="CategoryID" Type="Int32" />
+    <Property Name="UsersID" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_NEWS_Category" FromRole="NEWS" ToRole="Category" />
+    <NavigationProperty Name="USERS" Relationship="Self.FK_NEWS_USERS" FromRole="NEWS" ToRole="USERS" />
+  </EntityType>
+  <EntityType Name="USERS">
+    <Key>
+      <PropertyRef Name="UsersID" />
+    </Key>
+    <Property Name="UsersID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Discription" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NEWS" Relationship="Self.FK_NEWS_USERS" FromRole="USERS" ToRole="NEWS" />
+  </EntityType>
+  <Association Name="FK_NEWS_Category">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="NEWS" Type="Self.NEWS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryID" />
+      </Principal>
+      <Dependent Role="NEWS">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NEWS_USERS">
+    <End Role="USERS" Type="Self.USERS" Multiplicity="0..1" />
+    <End Role="NEWS" Type="Self.NEWS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USERS">
+        <PropertyRef Name="UsersID" />
+      </Principal>
+      <Dependent Role="NEWS">
+        <PropertyRef Name="UsersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NEWSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Category" EntityType="Self.Category" />
+    <EntitySet Name="NEWS" EntityType="Self.NEWS" />
+    <EntitySet Name="USERS" EntityType="Self.USERS" />
+    <AssociationSet Name="FK_NEWS_Category" Association="Self.FK_NEWS_Category">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="NEWS" EntitySet="NEWS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NEWS_USERS" Association="Self.FK_NEWS_USERS">
+      <End Role="USERS" EntitySet="USERS" />
+      <End Role="NEWS" EntitySet="NEWS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

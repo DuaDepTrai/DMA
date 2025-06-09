@@ -1,0 +1,12 @@
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\WcfService1.dll.config
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\WcfService1.dll
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\WcfService1.pdb
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\EntityFramework.dll
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\EntityFramework.SqlServer.dll
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\EntityFramework.xml
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\bin\EntityFramework.SqlServer.xml
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+E:\APTECH - IT\DMA\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
